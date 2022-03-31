@@ -1,0 +1,1 @@
+![SquidSync Mascot](assets/200w.gif)
