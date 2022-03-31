@@ -1,10 +1,10 @@
 Visit my [**📃webpage** [here]](https://squidsync.com/)
-<h4 align="center">
+<h2 align="center">
     <samp>
         Hey, <sup><i>there!</i></sup>👋
          welcome to my Github profile🧑
      </samp>
-</h4>
+</h2>
 <p align="center">
     <p>// SquidSync Mascot \\</p>
   <img width="250" src="assets/200w.gif">
