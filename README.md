@@ -1,6 +1,6 @@
 <img src="assets/line.png">
 <p align="center">
-  <img width="700" height="250" src="assets/welcome.png">
+  <img width="650" height="250" src="assets/welcome.png">
 </p>
 <img src="assets/line.png">
 
@@ -53,4 +53,4 @@ return setmetatable({}, Cole) -- @return <Singleton> [@Cole]
   <img width="200" src="assets/200w.gif">
 </p>
 <img src="assets/line.png">
-<a href="https://squidsync.com/" style="text-align:center">     Visit my webpage📃 [here]</a>
+<a href="https://squidsync.com/" style="text-align:center">Visit my webpage📃 [here]</a>
