@@ -4,7 +4,7 @@ Visit my [**📃webpage** [here]](https://squidsync.com/)
 --*[[+ Cole.lua +]]*--
 local Human = {}
 Human.__index = Human
-local Cole = { --> this is me!
+local Cole = { --> 🧑 @my profile!
     name = "Cole",
     career = "Programming 🖥️",
     pronouns = "he" or "him",
