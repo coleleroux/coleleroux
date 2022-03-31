@@ -1,5 +1,8 @@
 Visit my [**📃webpage** [here]](https://squidsync.com/)
-<h4 align="center">Hey, there!👋 <samp>welcome to my Github profile🧑</samp></h4>
+<h4 align="center">
+    <sup><i>Hey, there!👋</i></sup>
+    <samp> welcome to my Github profile🧑</samp>
+</h4>
 <p align="center">
     <p>// SquidSync Mascot \\</p>
   <img width="250" src="assets/200w.gif">
