@@ -2,7 +2,6 @@
     <samp>Hey, <sup><i>there!</i></sup>👋 welcome to my Github profile 🧑
         take a look around, and clone away! 🔨</samp> 
 </h2>
-<img src="assets/line.png">
 <p align="center">
   <img width="200" src="assets/200w.gif">
 </p>
