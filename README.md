@@ -1,5 +1,9 @@
-![SquidSync Mascot](assets/200w.gif)
 Visit my [**📃webpage** [here]](https://squidsync.com/)
+<p align="center">
+    <p>// SquidSync Mascot \\</p>
+  <img width="250" src="assets/200w.gif">
+</p>
+
 ```lua
 --*[[+ Cole.lua +]]*--
 local Human = {}
