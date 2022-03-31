@@ -1,9 +1,6 @@
-Visit my [**📃webpage** [here]](https://squidsync.com/)
 <h3 align="center">
-    <samp>
-        Hey, <sup><i>there!</i></sup>👋
-         welcome to my Github profile🧑
-     </samp>
+    <samp>Hey, <sup><i>there!</i></sup>👋 welcome to my Github profile🧑
+        Visit my [**📃webpage** [here]](https://squidsync.com/)</samp> 
 </h3>
 <p align="center">
     <p>// SquidSync Mascot \\</p>
