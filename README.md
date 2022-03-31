@@ -3,7 +3,9 @@
         take a look around, and clone away! 🔨</samp> 
 </h2>
 <img src="assets/line.png">
-<img src="assets/desktop.png">
+<p align="center">
+  <img width="200" src="assets/200w.gif">
+</p>
 <img src="assets/line.png">
 
 ```lua
@@ -51,8 +53,7 @@ return setmetatable({}, Cole) -- @return <Singleton> [@Cole]
 ```
 
 <img src="assets/line.png">
-<p align="center">
-  <img width="200" src="assets/200w.gif">
-</p>
+<img src="assets/desktop.png">
+
 <img src="assets/line.png">
 <a href="https://squidsync.com/" style="text-align:center">Visit my webpage📃 [here]</a>
