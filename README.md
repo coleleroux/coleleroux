@@ -1,7 +1,8 @@
 <h3 align="center">
     <samp>Hey, <sup><i>there!</i></sup>👋 welcome to my Github profile🧑
-        Visit my [**📃webpage** [here]](https://squidsync.com/)</samp> 
+        take a look aorund, and clone away! 🔨</samp> 
 </h3>
+<a href="https://squidsync.com/">Visit my 📃webpage [here]</a>
 <p align="center">
     <p>// SquidSync Mascot \\</p>
   <img width="250" src="assets/200w.gif">
