@@ -4,7 +4,6 @@ Visit my [**📃webpage** [here]](https://squidsync.com/)
 --*[[+ Cole.lua +]]*--
 local Human = {}
 Human.__index = Human
--- <Singleton> [Human -> Cole]
 local Cole = {
     name = "Cole",
     career = "Programming 🖥️",
@@ -14,7 +13,7 @@ local Cole = {
 Cole.__index = Cole
 Cole.__type = "Male"
 Cole.__call = "SquidSync"
-setmetatable(Cole, Human)
+setmetatable(Cole, Human) --> [Human -> Cole]
 function Cole.About()
     return {
         profession = {
