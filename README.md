@@ -1,2 +1,2 @@
 ![SquidSync Mascot](assets/200w.gif)
-Click to [Visit](https://squidsync.com/) my webpage
+Visit my webpage(https://squidsync.com/) 
