@@ -2,12 +2,12 @@
     <samp>Hey, <sup><i>there!</i></sup>👋 welcome to my Github profile🧑
         take a look around, and clone away! 🔨</samp> 
 </h3>
-
+<a href="https://squidsync.com/" style="text-align:center">Visit my webpage📃 [here]</a>
 <p align="center">
   <img width="250" src="assets/200w.gif">
   
 </p>
-<a href="https://squidsync.com/" style="text-align:center">Visit my webpage📃 [here]</a>
+
 
 ```lua
 --*[[+ Cole.lua +]]*--
