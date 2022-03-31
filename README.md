@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="600" height="185" src="assets/welcome.png">
-</p>
+
 
 <img src="assets/line.png">
 <p align="center">
