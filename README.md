@@ -42,5 +42,5 @@ function Cole:Wave(message): any?
     return string.format("%s says: Hey! 👋, %s!", self.name, message)
 end
 warn(Cole:Wave("Everybody")) --> "Cole says: Hey! 👋, Everybody!"
-return setmetatable({}, Cole) -- we are a Singleton! :D
+return setmetatable({}, Cole) -- @return <Singleton> [@Cole]
 ```
