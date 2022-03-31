@@ -1,7 +1,7 @@
 
-<img src="assets/line.png">
+
 <h3 align="center">
-    <samp>Hey, <sup><i>there!</i></sup>👋 welcome to my Github profile🧑
+    <samp>Hey, <sup><i>there!</i></sup>👋 welcome to my Github profile 🧑
         take a look around, and clone away! 🔨</samp> 
 </h3>
 <img src="assets/line.png">
