@@ -3,9 +3,11 @@
         take a look around, and clone away! 🔨</samp> 
 </h3>
 
+<img src="assets/line.png">
 <p align="center">
   <img width="200" src="assets/200w.gif">
 </p>
+<img src="assets/line.png">
 
 
 ```lua
