@@ -2,10 +2,9 @@
     <samp>Hey, <sup><i>there!</i></sup>👋 welcome to my Github profile🧑
         take a look around, and clone away! 🔨</samp> 
 </h3>
-<a href="https://squidsync.com/" style="text-align:center">Visit my webpage📃 [here]</a>
+
 <p align="center">
   <img width="250" src="assets/200w.gif">
-  
 </p>
 
 
@@ -52,3 +51,5 @@ end
 warn(Cole:Wave("Everybody")) --> "Cole says: Hey! 👋, Everybody!"
 return setmetatable({}, Cole) -- @return <Singleton> [@Cole]
 ```
+
+<a href="https://squidsync.com/" style="text-align:center">Visit my webpage📃 [here]</a>
