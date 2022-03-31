@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img width="175" src="assets/200w.gif">
+  <img width="200" src="assets/200w.gif">
 </p>
 
 
