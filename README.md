@@ -7,7 +7,7 @@
   <img width="250" src="assets/200w.gif">
   
 </p>
-<a href="https://squidsync.com/"><span style="text-align:center">Visit my webpage📃 [here]</span></a>
+<a href="https://squidsync.com/" style="text-align:center">Visit my webpage📃 [here]</a>
 
 ```lua
 --*[[+ Cole.lua +]]*--
