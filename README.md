@@ -3,6 +3,8 @@
         take a look around, and clone away! 🔨</samp> 
 </h2>
 <img src="assets/line.png">
+<img src="assets/desktop.png">
+<img src="assets/line.png">
 
 ```lua
 --*[[+ Cole.lua +]]*--
