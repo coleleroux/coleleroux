@@ -52,5 +52,5 @@ return setmetatable({}, Cole) -- @return <Singleton> [@Cole]
 <p align="center">
   <img width="200" src="assets/200w.gif">
 </p>
-<a href="https://squidsync.com/" style="text-align:center">Visit my webpage📃 [here]</a>
 <img src="assets/line.png">
+<a href="https://squidsync.com/" style="text-align:center"> \tVisit my webpage📃 [here]</a>
