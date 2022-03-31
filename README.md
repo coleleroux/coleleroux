@@ -1,7 +1,9 @@
 ![SquidSync Mascot](assets/200w.gif)
 Visit my [**📃webpage** [here]](https://squidsync.com/)
 ```lua
+-- <Singleton> Cole.lua
 local Human = {}
+Human.__index = Human
 local Cole = {
     name = "Cole",
     career = "Programming 🖥️",
