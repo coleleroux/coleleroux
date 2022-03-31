@@ -1,9 +1,9 @@
 
 
-<h2 align="center">
+<h1 align="center">
     <samp>Hey, <sup><i>there!</i></sup>👋 welcome to my Github profile 🧑
         take a look around, and clone away! 🔨</samp> 
-</h2>
+</h1>
 <img src="assets/line.png">
 
 ```lua
