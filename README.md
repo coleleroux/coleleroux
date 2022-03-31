@@ -1,6 +1,6 @@
 Visit my [**📃webpage** [here]](https://squidsync.com/)
 <h4 align="center">
-    <sup><i>Hey, there!👋</i></sup>
+    Hey, <sup><i>there!</i></sup>👋
     <samp> welcome to my Github profile🧑</samp>
 </h4>
 <p align="center">
