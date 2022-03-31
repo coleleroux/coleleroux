@@ -5,7 +5,9 @@
   <img width="200" src="assets/200w.gif">
 </p>
 <img src="assets/line.png">
-
+<p align="center">
+  <img width="700" height="250" src="assets/welcome.png">
+</p>
 
 ```lua
 --*[[+ Cole.lua +]]*--
