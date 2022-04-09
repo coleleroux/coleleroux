@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img pointer-events="none" width="50%" height="40%" src="assets/200w.gif">
+  <img pointer-events="none" width="40%" height="40%" src="assets/200w.gif">
 </p>
 <h2 align="center">
     <samp color="rgb(3, 123, 252)"> Hey! Welcome to my Github profile.🔨</samp> 
