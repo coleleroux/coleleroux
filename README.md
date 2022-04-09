@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="100%" height="60%" src="assets/deepsea.gif">
+  <img pointer-events="none" width="100%" height="40%" src="assets/deepsea.gif">
 </p>
 <h2 align="center">
     <samp color="rgb(3, 123, 252)"> Hey! Welcome to my Github profile.🔨</samp> 
