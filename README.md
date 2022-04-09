@@ -1,10 +1,10 @@
-<h2 align="center">
-    <samp>Hey, <sup><i>there!</i></sup>👋 welcome to my Github profile 🧑
-        take a look around, and clone away! 🔨</samp> 
-</h2>
+
 <p align="center">
-  <img width="100%" height="70%" src="assets/deepsea.gif">
+  <img width="100%" height="60%" src="assets/deepsea.gif">
 </p>
+<h2 align="center">
+    <samp> Hey! Welcome to my Github profile.🔨</samp> 
+</h2>
 <img src="assets/line.png">
 
 ```lua
