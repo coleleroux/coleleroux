@@ -3,7 +3,7 @@
         take a look around, and clone away! 🔨</samp> 
 </h2>
 <p align="center">
-  <img width="100%" src="assets/deepsea.gif">
+  <img width="100%" height="70%" src="assets/deepsea.gif">
 </p>
 <img src="assets/line.png">
 
