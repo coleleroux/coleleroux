@@ -3,7 +3,7 @@
   <img width="100%" height="60%" src="assets/deepsea.gif">
 </p>
 <h2 align="center">
-    <samp> Hey! Welcome to my Github profile.🔨</samp> 
+    <samp color="rgb(3, 123, 252)"> Hey! Welcome to my Github profile.🔨</samp> 
 </h2>
 <img src="assets/line.png">
 
