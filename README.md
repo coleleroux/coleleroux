@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img pointer-events="none" width="100%" height="40%" src="assets/deepsea.gif">
+  <img pointer-events="none" width="50%" height="40%" src="assets/200w.gif">
 </p>
 <h2 align="center">
     <samp color="rgb(3, 123, 252)"> Hey! Welcome to my Github profile.🔨</samp> 
@@ -52,5 +52,4 @@ return setmetatable({}, Cole) -- @return <Singleton> [@Cole]
 ```
 
 <img src="assets/line.png">
-<img src="assets/desktop.png">
 <a href="https://squidsync.com/" style="text-align:center">Visit my webpage📃 [here]</a>
