@@ -14,8 +14,7 @@ Human.__index = Human
 local Cole = { --> 🧑 @my profile!
     name = "Cole",
     career = "Programming 🖥️",
-    pronouns = "he" or "him",
-    employer = [[ Voldex ]]
+    pronouns = "he" or "him"
 }
 Cole.__index = Cole
 Cole.__type = "Male"
